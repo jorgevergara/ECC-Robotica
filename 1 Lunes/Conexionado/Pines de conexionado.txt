@@ -1,0 +1,21 @@
+    Pines Arduino		Pines de sensores, actuadores y otros periféricos
+    ------------------------------------------------------------------------------
+
+	A4			SDA Sensor APDS-9960
+	A5			SCL Sensor APDS-9960
+	D2			INT Sensor APDS-9960
+	3.3 volts		Alimentación Sensor APDS-9960
+	GND			GND
+
+	D12			RX Bluetooth
+	D13			TX Bluetooth
+	5 volts			Alimentación de Bluetooth
+	GND			GND
+	
+	D3			Pin control servo cadera
+	D5			Pin control servo hombro		
+	D6			Pin control servo codo
+	D9			Pin control giro muñeca		
+	D10			Pin control abrir-cerrar garra
+	5 volts			Alimentación para los servomotores
+	GND			GND
